@@ -10,10 +10,11 @@
    "description": "Cache Cat clears your browser cache!.",
    "icons": {
       "16": "assets/cachecat.png",
-      "128": "assets/cachecatlarge.png"
+      "128": "assets/cachecat128.png"
    },
    "manifest_version": 2,
    "name": "Cache Cat",
+   "short_name": "Cache Cat",
    "omnibox": {
       "keyword": "cachecat"
    },
